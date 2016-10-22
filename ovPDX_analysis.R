@@ -1,5 +1,5 @@
 # Set the working directory
-setwd("/Users/mcuoco/Google Drive/Projects/OvCa PDX")
+setwd("/Users/mcuoco/Google Drive/Projects/OvCa PDX/Analysis")
 
 # Load required packages
 library(ggplot2)

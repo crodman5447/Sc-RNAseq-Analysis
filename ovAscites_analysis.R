@@ -1,5 +1,5 @@
 # Set the working directory
-setwd("/Users/mcuoco/Google Drive/Projects/OvCa Patient Ascites")
+setwd("/Users/mcuoco/Google Drive/Projects/OvCa Patient Ascites/Analysis")
 
 # Load required packages
 library(ggplot2)
